@@ -67,3 +67,4 @@ public class PlayfieldElementComparator implements ExerciseSubmission, Comparato
 		return "G03T03";
 	}
 }
+//Felix was hier
